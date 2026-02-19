@@ -104,3 +104,7 @@ The smoke test validates:
 - Verify symbol permissions and market data subscriptions.
 - Keep position size small while validating behavior.
 - Confirm TWS API permissions before live order testing.
+
+## Legal Disclaimer
+
+This project is provided for educational purposes only and does not constitute financial, investment, legal, or tax advice. Use at your own risk. Trading involves substantial risk, and you are solely responsible for any losses, damages, or compliance obligations resulting from use of this software.
