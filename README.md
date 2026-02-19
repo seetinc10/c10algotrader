@@ -35,6 +35,10 @@ pip install -r requirements.txt
 python app.py
 ```
 
+## Screenshot
+
+![C10 AlgoTrader UI](<Screenshot (69).png>)
+
 ## Basic Workflow
 
 1. Enter a symbol (example: `AAPL`).
