@@ -1,0 +1,5 @@
+ib_insync>=0.9.86
+matplotlib>=3.10
+numpy
+pandas
+nest-asyncio>=1.6

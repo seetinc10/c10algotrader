@@ -1,0 +1,26 @@
+STRATEGY IDEAS
+==============
+
+TREND FOLLOWING
+[DONE] MACD Crossover (12/26/9 EMA, signal line cross)
+[DONE] Dual Moving Average (50/200 golden cross / death cross)
+[DONE] Donchian Channel Breakout (N-bar high/low breakout, Turtle Traders)
+
+MEAN REVERSION
+[DONE] Bollinger Band Bounce (buy lower band, sell upper band)
+[DONE] RSI Overbought/Oversold (buy <30, sell >70, with trend filter)
+[SKIP] Pairs Trading (correlated stocks — requires multi-symbol architecture)
+
+MOMENTUM
+[DONE] VWAP Reversion (buy below VWAP, sell above VWAP)
+[DONE] Opening Range Breakout (first 15-30 min range, trade the breakout)
+
+VOLATILITY-BASED
+[DONE] ATR Trailing Stop (any entry signal + N*ATR trailing exit)
+[DONE] Squeeze Momentum (Bollinger inside Keltner, trade the release)
+
+VOLUME-BASED
+[DONE] OBV Divergence (price vs On-Balance Volume divergence)
+
+COMPOSITE
+[DONE] Ichimoku Cloud (Tenkan/Kijun cross + cloud position + lagging span)
